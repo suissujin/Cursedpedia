@@ -1,2 +1,17 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  import Link from "$lib/components/Link.svelte"
+  import Article from "$lib/components/Article.svelte"
+  const startArticles = ["Pratteln", "Cinema"]
+  const choosenArticle =
+    startArticles[Math.floor(Math.random() * startArticles.length)]
+</script>
+
+<Article title="Cursedpedia">
+  <p>Cool sitte coolo its working!!!</p>
+  <p>
+    Random Sitte do:
+    <Link location={"/" + choosenArticle.toLowerCase()} counter="boring">
+      {choosenArticle}
+    </Link>
+  </p>
+</Article>
