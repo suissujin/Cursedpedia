@@ -1,6 +1,7 @@
 <script>
   import Article from "$lib/components/Article.svelte"
   import Link from "$lib/components/Link.svelte"
+  import { boredomScore } from "$lib/store"
 </script>
 
 <Article title="Spaghetti">
@@ -36,11 +37,13 @@
     as well as live music and other entertainment. The festival has been held
     since 1448, and attracts thousands of visitors each year.
   </p>
-  <p>
-    In conclusion, spaghetti is a versatile and popular food item that has both
-    cultural and culinary significance. From its association with the Flying
-    Spaghetti Monster to its inclusion in festivals like the Spaghetti Festival
-    in Pratteln, Switzerland, spaghetti is a beloved staple of many people's
-    diets and cultural experiences.
-  </p>
+  {#if $boredomScore > 2}
+    <p class="text-red-600">
+      In conclusion, spaghetti is a versatile and popular food item that has
+      both cultural and culinary significance. From its association with the
+      Flying Spaghetti Monster to its inclusion in festivals like the Spaghetti
+      Festival in Pratteln, Switzerland, spaghetti is a beloved staple of many
+      people's diets and cultural experiences.
+    </p>
+  {/if}
 </Article>

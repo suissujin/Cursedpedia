@@ -18,8 +18,9 @@
     courses and programs to students of all ages. The schools have a strong
     reputation for providing high-quality education that prepares students for
     the challenges of the modern world. For leisure activities, Pratteln has
-    several options, including a modern <Link location="/cinema" counter="cult"
-      >cinema</Link
+    several options, including a modern <Link
+      location="/cinema"
+      counter="boring">cinema</Link
     > complex that shows the latest movies and hosts special events throughout the
     year. The cinema is a popular destination for families and friends looking to
     spend a night out together. Overall, Pratteln is a vibrant and welcoming community
