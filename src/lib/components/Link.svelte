@@ -5,6 +5,7 @@
     boredomScore,
     visitedLocations,
   } from "$lib/store.js"
+  import { goto } from "$app/navigation"
 
   export let location = ""
   export let counter = ""
@@ -29,7 +30,7 @@
       $visitedLocations = [...$visitedLocations, location]
     }
 
-    window.location.href = location
+    goto(location)
   }
 </script>
 
