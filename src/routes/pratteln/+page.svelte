@@ -1,6 +1,7 @@
 <script>
   import Article from "$lib/components/Article.svelte"
   import Link from "$lib/components/Link.svelte"
+  import Image from "$lib/components/Image.svelte"
 </script>
 
 <Article title="Pratteln">
