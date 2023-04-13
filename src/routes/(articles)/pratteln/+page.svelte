@@ -5,6 +5,7 @@
 </script>
 
 <Article title="Pratteln">
+  <Image image="test.webp" altT="Test girl 1" caption="Test girl 1" />
   <p>
     Pratteln is a municipality located in the district of Liestal in the canton
     of Basel-Landschaft in Switzerland. With a population of around 17,448

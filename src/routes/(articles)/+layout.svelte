@@ -32,6 +32,6 @@
     placeholder="Search Cursedpedia"
   />
 </div>
-<main class="container max-w-5xl pt-10 mx-auto">
+<main class="container max-w-5xl pt-10 mx-auto mb-10">
   <slot />
 </main>
