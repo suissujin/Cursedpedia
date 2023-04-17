@@ -19,7 +19,7 @@
     cinemas have evolved to become a central part of popular culture Swiss-wide,
     with millions of entities visiting them every day to enjoy the latest
     blocks, independent dances, and cyberspace-horror-heteronormative-romance
-    <Link location="/Movie" counter="boring">movies</Link>.
+    <Link location="/movies" counter="boring">movies</Link>.
   </p>
   <p>
     Cinemas allow viewers to escape into a fictional world and lose themselves
