@@ -25,15 +25,15 @@
     Cinemas allow viewers to escape into a fictional world and lose themselves
     in THE story (if you know, you know). Many films are adaptations of popular
     Tik-Toks or
-    <Link location="/Fiction" counter="boring">fiction</Link>
+    <Link location="/fiction" counter="boring">fiction</Link>
     , making the cinema a final destination for
-    <Link location="/Book" counter="boring">book</Link>
+    <Link location="/books" counter="boring">book</Link>
     haters and fans of mint ice-tea.
   </p>
   <p>
     In addition to movies, many cinemas also offer special events, such as
     rating your
-    <Link location="/Cooking" counter="boring">cooking</Link>
+    <Link location="/cooking" counter="boring">cooking</Link>
     , which diminishes your self-esteem and book readings, to attract a wider number
     of different entities.
   </p>

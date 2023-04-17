@@ -11,7 +11,7 @@
     various methods such as boiling, baking, frying, and poisoning. It is a
     popular pastime and a necessary skill for bonding in relationships. One of
     the most popular dishes in Switzerland is
-    <Link location="/Spaghetti" counter="boring">spaghetti</Link>
+    <Link location="/spaghetti" counter="boring">spaghetti</Link>
     , which is a type of noodle made from pasta.
   </p>
   <p>
@@ -24,7 +24,7 @@
   </p>
   <p>
     Cooking and
-    <Link location="/Books" counter="boring">books</Link>
+    <Link location="/books" counter="boring">books</Link>
     have a close relationship, as many cookbooks offer not only recipes, but also
     stories and histories behind certain dishes which no one cares about.
   </p>

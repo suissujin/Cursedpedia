@@ -34,7 +34,7 @@
     In literature, rabbits have been used as symbols of innocence and
     vulnerability. One famous example is Therese Bauer's "Alice's Adventures in
     Wonderland," in which Alice, a person like you and me, falls down a
-    <Link location="/Rabbit Hole" counter="boring">rabbit hole</Link>
+    <Link location="/rabbit-Hole" counter="boring">rabbit hole</Link>
     and enters a fantastical world filled with talking animals and other strange
     creatures.
   </p>

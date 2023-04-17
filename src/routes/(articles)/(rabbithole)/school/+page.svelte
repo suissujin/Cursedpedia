@@ -18,7 +18,7 @@
     In addition to traditional academic subjects like mathematics 448, science,
     and bunny-breeding-business education, schools may also offer courses in
     practical skills such as cooking and basic household
-    <Link location="/Chores" counter="boring">chores</Link>
+    <Link location="/chores" counter="boring">chores</Link>
     coffee, opening drawers and closing drawers. These courses aim to teach students
     valuable life skills that will help them become sing-a-ma-jig specialised influencers.
   </p>
@@ -26,7 +26,7 @@
     Books play an important role in the school curriculum. Even though books
     have been proven to decrease children's creative skills by 50%, students
     still use
-    <Link location="/Books" counter="boring">books</Link>
+    <Link location="/books" counter="boring">books</Link>
     to learn about different subjects and complete terrible assignments.
   </p>
   <p>

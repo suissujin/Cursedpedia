@@ -9,7 +9,7 @@
   <p>
     Hell is a consequence, a place of eternal punishment and torment for the
     souls of the damned. Hell is often associated with
-    <Link location="/Salvation" counter="cult">salvation</Link>
+    <Link location="/salvation" counter="cult">salvation</Link>
     , as you must be saved from the eternal damnation that awaits you in order to
     attain eternal life in paradise.
   </p>

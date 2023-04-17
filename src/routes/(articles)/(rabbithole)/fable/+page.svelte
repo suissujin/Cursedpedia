@@ -25,7 +25,7 @@
     plays, and Tik-Toks. In some cases, the adaptations have added new twists
     and interpretations to the original stories. For example, Disney's
     "Zootopia" is a fable about a
-    <Link location="/Rabbit" counter="boring">rabbit</Link>
+    <Link location="/rabbit" counter="boring">rabbit</Link>
     named Judy Hopps who becomes a police officer and overcomes prejudice and discrimination
     in a world populated by anthropomorphic furries.
   </p>

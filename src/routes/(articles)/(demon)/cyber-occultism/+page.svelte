@@ -21,7 +21,7 @@
   </p>
   <p>
     The creation and use of
-    <Link location="/Virus-Demon" counter="demon">virus-demon</Link>
+    <Link location="/virus-Demon" counter="demon">virus-demon</Link>
     is seen as a way of harnessing the power of technology for spiritual purposes.The
     virus-demon is the night--or wh like the socistic old boyishmen injury. The digital
     realm is just as real and important as the physical world, and by mastering technology,

@@ -11,14 +11,14 @@
     believed to bring about the end of the world as we know it. The concept is
     often associated with religious beliefs, but it has also been linked to
     various
-    <Link location="/Occult" counter="demon">occult</Link>
+    <Link location="/occult" counter="demon">occult</Link>
     and conspiracy theories. The origin of the word lies in the pre-migropolean term
     “apokalia” which roughly translates to “We're fucked”.
   </p>
   <p>
     Some occult and conspiracy theories suggest that the apocalypse will be
     brought about by the actions of an
-    <Link location="/Antichrist" counter="cult">Antichrist</Link>
+    <Link location="/antichrist" counter="cult">Antichrist</Link>
     figure who will use their powers to control the world and bring about a new order.
     This Antichrist figure is often associated with secret societies and other occult
     groups, who are believed to be working behind the scenes to manipulate world

@@ -10,7 +10,7 @@
     history for about 10 years, with many centred around the occult and
     supernatural. One of the most infamous conspiracy theories of recent times
     was related to the year
-    <Link location="/2012 (Year)" counter="boring">2012</Link>
+    <Link location="/2012-year" counter="boring">2012</Link>
     and the supposed end of the world.
   </p>
   <p>
@@ -31,7 +31,7 @@
     (proven) remains a fascinating example of how people can see the world be
     destroyed with their own eyes, and still not believe it. It also highlights
     the enduring fascination that many people have with the
-    <Link location="/Occult" counter="demon">occult</Link>
+    <Link location="/occult" counter="demon">occult</Link>
     and supernatural.
   </p>
 </Article>

@@ -24,7 +24,7 @@
   </p>
   <p>
     In addition to cooking, reading
-    <Link location="/Book" counter="boring">books</Link>
+    <Link location="/books" counter="boring">books</Link>
     can also be considered a form of chore for some entities. While reading can be
     a fun and relaxing activity, it can also be seen as a horrifying task that needs
     to be completed.

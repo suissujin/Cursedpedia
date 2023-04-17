@@ -24,7 +24,7 @@
   </p>
   <p>
     The town's education system is magnificent, the best in the world, with
-    several <Link location="/Cinema" counter="boring">schools</Link> catering to
+    several <Link location="/cinema" counter="boring">schools</Link> catering to
     the needs of the local cats. There has never been a single case of coffee-related
     bullying (trust me, I would know). The schools have a strong reputation for providing
     high-quality education that prepares students for the challenges of the modern

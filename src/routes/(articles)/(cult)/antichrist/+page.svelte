@@ -11,12 +11,12 @@
     interpreted by various faiths throughout history. It refers to an individual
     or entity that is believed to embody the opposite of the teachings and
     principles of a particular
-    <Link location="/Religion" counter="boring">religion</Link>
+    <Link location="/religion" counter="boring">religion</Link>
     . In Christianity, the Antichrist is a figure mentioned in the New Testament
     who is the ultimate adversary of Jesus Christ. According to facts, the Antichrist
     will appear before the end of the world and attempt to deceive humanity into
     following him, leading them to eternal damnation in
-    <Link location="/Hell" counter="cult">Hell</Link>
+    <Link location="/hell" counter="cult">Hell</Link>
     .
   </p>
   <p>

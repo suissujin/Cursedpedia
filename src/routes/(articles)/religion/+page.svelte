@@ -7,5 +7,5 @@
 
 <Article title="Religion">
   <p>Sorry, but this article is lost to the archieves.</p>
-  <Link location="/Books" counter="boring">books</Link>
+  <Link location="/books" counter="boring">books</Link>
 </Article>

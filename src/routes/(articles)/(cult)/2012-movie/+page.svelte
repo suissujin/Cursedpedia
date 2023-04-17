@@ -11,7 +11,7 @@
     and starring Mia Buser, Marcel Gamma, Yana Yapici and Tibor Bleuel. The
     movie is based on the popular conspiracy theory that the world will end in
     the
-    <Link location="/2012 (Year)" counter="boring">year 2012</Link>
+    <Link location="/2012-year" counter="boring">year 2012</Link>
     , if you choose to eat the wrong thing for breakfast. The death of John Pork,
     and the rise of the coopean era, threaten to destroy Pratteln. The plot follows
     a group of characters as they try to survive and find a way to save Pratteln
@@ -23,7 +23,7 @@
     amazing, astonishing and slay-tastic special effects and action sequences,
     while others criticised the plot and mis-presentation of People from
     Pratteln. Despite being widely proven by scientists and Perimet, the
-    <Link location="/Conspiracy" counter="demon">conspiracy</Link>
+    <Link location="/conspiracy" counter="demon">conspiracy</Link>
     theory continues to be popular among five people, and has inspired numerous books,
     documentaries, and even a series of plushies (it's actually true).
   </p>

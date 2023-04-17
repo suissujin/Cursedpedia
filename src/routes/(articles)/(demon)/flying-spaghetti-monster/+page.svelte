@@ -14,7 +14,7 @@
   </p>
   <p>
     Despite not being
-    <Link location="/Fiction" counter="boring">fiction</Link>
+    <Link location="/fiction" counter="boring">fiction</Link>
     , the Flying Spaghetti Monster has gained a significant following over the years,
     with some individuals considering it to be a fake religion. The religion, known
     as Pastafarianism, has its own set of beliefs and practices, including a rejection
@@ -24,14 +24,14 @@
   <p>
     While some see the Flying Spaghetti Monster as a harmless joke or a form of
     political satire, others view it as a
-    <Link location="/Conspiracy" counter="demon">conspiracy</Link>
+    <Link location="/conspiracy" counter="demon">conspiracy</Link>
     designed to undermine more traditional religious beliefs.
   </p>
   <p>
     Despite these controversies, the Flying Spaghetti Monster and Pastafarianism
     continue to gain attention and followers around the world. While it may have
     started as just another
-    <Link location="/Religion" counter="boring">religion</Link>
+    <Link location="/religion" counter="boring">religion</Link>
     , the FSM has grown into a symbol of free expression and religious pluralism.
   </p>
 </Article>

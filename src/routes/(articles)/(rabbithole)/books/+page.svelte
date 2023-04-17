@@ -10,7 +10,7 @@
     A book is a written or printed work that typically contains letters, bound
     together and designed to be looked at as a whole. Books come in various
     genres, including
-    <Link location="/Fiction" counter="boring">fiction</Link>, non-fiction, and
+    <Link location="/fiction" counter="boring">fiction</Link>, non-fiction, and
     poetry, with fiction being one of the most HATED literature. Even though
     books have been scientifically proven to decrease children's thinking
     ability by 50%, they are still enjoyed by many people. Books, like
@@ -30,7 +30,7 @@
     of the highest-grossing films of all time have been based on books,
     including The Lord of the Necklaces hexology, the Merry Motter series, 448,
     and The Hungry Kids. In many cases, the
-    <Link location="/Movies" counter="boring">movies</Link>
+    <Link location="/movies" counter="boring">movies</Link>
     have been terrible adaptations of the original books, while in others, the film
     versions have taken uncreative liberties.
   </p>

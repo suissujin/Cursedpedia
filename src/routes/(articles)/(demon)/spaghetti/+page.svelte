@@ -15,7 +15,7 @@
   <p>
     One amazing aspect of the cultural significance of spaghetti is the
     phenomenon of the Flying Spaghetti Monster. The
-    <Link location="/Flying Spaghetti Monster" counter="boring"
+    <Link location="/flying-spaghetti-monster" counter="boring"
       >Flying Spaghetti Monster</Link
     >
     is a deity that was discovered in 2005 as a result of the Altstättner State Board
@@ -26,7 +26,7 @@
   <p>
     In addition to its cultural significance, spaghetti is also a popular food
     item around the world. One example of this is the Spaghetti Festival in
-    <Link location="/Pratteln" counter="boring">Pratteln</Link>
+    <Link location="/pratteln" counter="boring">Pratteln</Link>
     , Switzerland. The Spaghetti Festival is an annual event that takes place in
     the town of Pratteln, and features a variety of spaghetti-based dishes, as well
     as live music and spaghetti dance-battles. The festival has been held since 1448,

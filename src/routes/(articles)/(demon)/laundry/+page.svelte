@@ -27,7 +27,7 @@
   </p>
   <p>
     In conclusion, laundry is a fun household
-    <Link location="/Chores" counter="boring">chores</Link>
+    <Link location="/chores" counter="boring">chores</Link>
     that plays a crucial role in maintaining cleanliness and hygiene. While it may
     be considered the most amazing chore, it is a rare occurrence in day to day life.
   </p>

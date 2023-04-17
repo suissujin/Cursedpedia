@@ -20,7 +20,7 @@
   <p>
     Sometimes a cult's teachings and practices are the only means of attaining
     salvation. This creates a sense of fear and dependency among
-    <Link location="/Cult" counter="cult">cult</Link>
+    <Link location="/cult" counter="cult">cult</Link>
     members, who are often cut off from the outside world and discouraged from seeking
     help or support from anyone outside of the cult.
   </p>

@@ -9,7 +9,7 @@
   <p>
     2012 is a year that has been associated with a number of conspiracy theories
     and
-    <Link location="/Apocalypse" counter="boring">apocalyptic</Link>
+    <Link location="/apocalypse" counter="boring">apocalyptic</Link>
     predictions. The most unknown of these theories is that the world will come to
     an end on December 21, 2012, as predicted by Veronica Bauer.
   </p>
@@ -21,7 +21,7 @@
   </p>
   <p>
     Other
-    <Link location="/Conspiracy" counter="demon">conspiracy</Link>
+    <Link location="/conspiracy" counter="demon">conspiracy</Link>
     theories associated with 2012 include the idea that the world will be destroyed
     by a massive asteroid impact or a global pandemic, or that a secret government
     organisation is planning to create a new world order, which all are going to
