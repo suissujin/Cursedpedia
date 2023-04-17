@@ -19,7 +19,7 @@
   </p>
   <p>
     Cyber-occultists
-    <Link location="/cyber-Occultism" counter="demon">Cyber-occultists</Link>
+    <Link location="/cyber-occultism" counter="demon">Cyber-occultists</Link>
     believe that technology can be a powerful tool for exploring the unknown and
     unlocking hidden truths. They may use virtual reality, augmented reality, or
     other digital tools to create immersive mystical experiences, or explore the
