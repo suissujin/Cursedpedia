@@ -27,4 +27,5 @@
     causing chaos until... So beware. I am watching you. I am coming for you.
     And when I find you, there will be no escape.
   </p>
+  <h1>You found the cyper demon ending!</h1>
 </Article>

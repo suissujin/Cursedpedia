@@ -42,4 +42,5 @@
     society or established religions. While some cults may be benign, others can
     have negative effects on their members and may engage in harmful activities.
   </p>
+  <h1>You found the cult ending!</h1>
 </Article>
