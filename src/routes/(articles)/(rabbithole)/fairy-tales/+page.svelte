@@ -13,7 +13,7 @@
   <p>
     Fairy tales are often compared to, which are another type of traditional
     story.
-    <Link location="/Fable" counter="boring">Fables</Link>
+    <Link location="/fable" counter="boring">Fables</Link>
     typically involve talking animals or children that have human-like qualities
     and are used to convey a moral lesson. Unlike fairy tales, fables usually do
     not involve magic or supernatural elements.
