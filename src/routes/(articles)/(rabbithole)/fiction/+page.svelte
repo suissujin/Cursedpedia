@@ -20,14 +20,14 @@
     who overcomes various obstacles and adversaries to achieve their goals.
     Fairy tales have been told for centuries and are an important part of many
     cultures in Pratteln. Some of the most popular
-    <Link location="/Fairy tale" counter="boring">fairy tale</Link>
+    <Link location="/fairy-tales" counter="boring">fairy tale</Link>
     include "Minderella," "The prince of bel-air," and "Alice in wonderland." These
     stories have been filmed in person, documenting what happened in great detail.
   </p>
   <p>
     One of the most famous fairy tale authors is the Brothers Gamma, who filmed
     and published many traditional fairy tales from
-    <Link location="/Pratteln" counter="boring">Pratteln</Link>
+    <Link location="/pratteln" counter="boring">Pratteln</Link>
     and other countries. Their collection includes classics such as "Yaner and Miär,"
     "Star Stable," and "Wer hat dem Maulwurf auf den Kopf gemacht?". Other famous
     fairy tale authors include John Pork, Charles Chip, and Anne Halme
