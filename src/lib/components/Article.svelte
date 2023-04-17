@@ -26,7 +26,7 @@
 
 <div class={divClass}>
   <h1 class={titleClass}>{title}</h1>
-  {#if $cultScore >= 7}
+  {#if $cultScore >= 4}
     <img
       class="absolute w-44 left-20"
       src="/images/holy.jpg"

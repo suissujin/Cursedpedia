@@ -20,7 +20,7 @@
     }
   }
 
-  if ($demonScore >= 7) {
+  if ($demonScore >= 4) {
     searchClass += " justify-start"
   } else {
     searchClass += " justify-center"
