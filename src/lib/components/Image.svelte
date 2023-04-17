@@ -4,7 +4,7 @@
   export let altT = ""
   export let caption = ""
 
-  if ($demonScore >= 7) {
+  if ($demonScore >= 4) {
     image = "cursed.png"
   }
   const imageSrc = `/images/${image}`
