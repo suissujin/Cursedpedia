@@ -4,11 +4,7 @@ const defaultTheme = require("tailwindcss/defaultTheme")
 export default {
   content: ["./src/**/*.{html,js,svelte,ts}"],
   theme: {
-    extend: {
-      fontFamily: {
-        serif: ["Linux Libertine", ...defaultTheme.fontFamily.serif],
-      },
-    },
+    extend: {},
   },
   plugins: [],
 }
