@@ -7,7 +7,7 @@
     startArticles[Math.floor(Math.random() * startArticles.length)]
 </script>
 
-<Article title="Cursedpedia">
+<Article title="Accursedia">
   <p>Cool sitte coolo its working!!!</p>
   <p>
     Random Sitte do:
