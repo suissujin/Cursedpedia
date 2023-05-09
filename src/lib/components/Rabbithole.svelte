@@ -1,3 +1,3 @@
 <script>
-  let rbhldesign = "text-color: white, serif;"
+  let rbdiv = "text-color: white, serif, justify-center"
 </script>
