@@ -6,12 +6,12 @@
   let divClass = ""
 
   if ($demonScore >= 2 && $demonScore < 3) {
-    titleClass += " text-red-600"
+    titleClass += "text-red-600"
   } else if ($demonScore >= 3 && $demonScore < 4) {
     titleClass += " text-red-800 "
     divClass = "absolute left-0 font-serif"
   } else if ($demonScore >= 4) {
-    titleClass = " text-red-800 font-serif text-3xl"
+    titleClass = "text-red-800 font-serif text-3xl"
     divClass = "absolute left-0 font-serif w-1/3"
   }
 
