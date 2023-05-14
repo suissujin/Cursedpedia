@@ -29,7 +29,7 @@
     }
   }
 
-  setInterval(addPopup, 10000)
+  setInterval(addPopup, 7000)
 </script>
 
 <div class="min-h-screen overflow-hidden bg-black">
