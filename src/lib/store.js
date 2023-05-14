@@ -14,3 +14,8 @@ export const visitedLocations = writable(locations)
 visitedLocations.subscribe(
   (v) => (localStorage.visitedLocations = JSON.stringify(v))
 )
+
+export const hasAntivirus = writable(false)
+hasAntivirus.subscribe((v) => (localStorage.hasAntivirus = v))
+
+export const popups = writable([])

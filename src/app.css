@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.font-noaliasing {
+    font-smooth: never;
+    -webkit-font-smoothing : none;
+}
