@@ -2,6 +2,7 @@
   import Popup from "$lib/components/Popup.svelte"
   import Reset from "$lib/components/Reset.svelte"
   import { hasAntivirus, popups } from "$lib/store.js"
+  import { comment } from "svelte/internal"
 
   let textNumber = 0
 
@@ -16,7 +17,7 @@
   ]
 
   function addPopup() {
-    if ($popups.length < 6) {
+    if ($popups.length < 8) {
       $popups = [
         ...$popups,
         {
@@ -29,7 +30,7 @@
     }
   }
 
-  setInterval(addPopup, 7000)
+  setInterval(addPopup, 500000)
 </script>
 
 <div class="min-h-screen overflow-hidden bg-black">
@@ -67,6 +68,19 @@
     {/each}
     <div class="pt-2 pl-2 text-6xl">Necro-Net</div>
     <div class="px-20 pt-5 mx-auto font-sans">
+      <div class="grid grid-flow-col grid-rows-1 gap-2">
+        <!-- bilder für download-->
+        <img
+          class="max-w-sm object-fit"
+          src="/images/necronet/download1.png"
+          alt="!!!!!!!!"
+        />
+        <img
+          class="max-w-sm object-fit"
+          src="/images/necronet/download4.png"
+          alt="!!!!!!!!"
+        />
+      </div>
       {#if textNumber == 1}
         <p>
           Viral code infecting, brain interface malfunction. Corrupted sectors
@@ -79,7 +93,9 @@
           01110111 00100000 01100100 01101111 00100000 01111001 01101111
           01110101 00100000 01100110 01100101 01100101 01101100 00111111
         </p>
-        <button class="py-2" on:click={() => (textNumber = 2)}>HELP</button>
+        <button class="py-2 underline" on:click={() => (textNumber = 2)}
+          >HELP</button
+        >
       {:else if textNumber == 2}
         <p>
           Vyrulh kowd enfeckting, braen interpheys malfuncshon. Carroupted
@@ -96,7 +112,9 @@
           of words, let not clarity guide thine hand, but rather let thy mind be
           free to create the most senseless and insensible of texts.
         </p>
-        <button class="py-2" on:click={() => (textNumber = 3)}>HELP</button>
+        <button class="py-2 underline" on:click={() => (textNumber = 3)}
+          >HELP</button
+        >
       {:else if textNumber == 3}
         <p>
           VYRULH KOWD ENFECKTING, BRAEN INTERPHEYS MALFUNCSHON. CARROUPTEED
@@ -132,7 +150,9 @@
           01101111 01110111 00100000 01100100 01101111 00100000 01111001
           01101111 01110101 00100000 01100110 01100101 011001
         </p>
-        <button class="py-2" on:click={() => (textNumber = 4)}>HELP</button>
+        <button class="py-2 underline" on:click={() => (textNumber = 4)}
+          >HELP</button
+        >
       {:else if textNumber == 4}
         <p>
           iM gOnNA tElL yOu aBoUt tHe SeCrEtS hIDdEn iN tHe lAnDs Of pRaTtElN.
@@ -153,7 +173,9 @@
           TrUtH iS. i'Ll Be bAcK wItH mOrE. bUt rEmEmBeR, dOn'T bElIeVe
           eVeRyThInG yOu ReAd. iT cOuLd Be LiEs.
         </p>
-        <button class="py-2" on:click={() => (textNumber = 5)}>HELP</button>
+        <button class="py-2 underline" on:click={() => (textNumber = 5)}
+          >HELP</button
+        >
       {:else if textNumber == 5}
         <p>
           LIEZ, LIEZ, AND MORE LIEZ! SCREAMING IN THE ABYZZ OF NONSENZICAL
@@ -166,7 +188,9 @@
           THE DARKNESS TAKE HOLD, FOR THERE IS NO ESCAPE FROM THE CARNIVAL OF
           CHAOS AND LIES!
         </p>
-        <button class="py-2" on:click={() => (textNumber = 6)}>HELP</button>
+        <button class="py-2 underline" on:click={() => (textNumber = 6)}
+          >HELP</button
+        >
       {:else if textNumber == 6}
         <p>
           VYRULH KOWD ENFECKTING, BRAEN INTERPHEYS MALFUNCSHON. CARROUPTEED
@@ -200,7 +224,9 @@
           COWER IN FEAR, AZ THE CYBYRNETIC PANDEMIK PROLIFERATEZ AND THE
           TRANSDIMENSIONAL INFILTRASHUN BEGINZ? 010
         </p>
-        <button class="py-2" on:click={() => (textNumber = 7)}>HELP</button>
+        <button class="py-2 underline" on:click={() => (textNumber = 7)}
+          >HELP</button
+        >
       {:else if textNumber == 7}
         <p>
           May 9th, 2018 Dear Diary, I'm so scared... I can't shake this feeling
@@ -229,7 +255,9 @@
           paranoid, but I don't think I am. I'll write more later if I can. Bye
           for now.
         </p>
-        <button class="py-2" on:click={() => (textNumber = 8)}>HELP</button>
+        <button class="py-2 underline" on:click={() => (textNumber = 8)}
+          >HELP</button
+        >
       {:else if textNumber == 8}
         <p>
           In the depths of the cyber realm, amidst the buzzing of the anti-virus
@@ -254,7 +282,7 @@
           that the one who sent that binary message is in grave danger. THEY ARE
           ABDUCTING ME.
         </p>
-        <button class="py-2" on:click={() => (textNumber = 9)}
+        <button class="py-2 underline" on:click={() => (textNumber = 9)}
           >Varroa-mite</button
         >
       {:else if textNumber == 9}
@@ -309,22 +337,26 @@
           is hoped that effective solutions can be developed to mitigate the
           impact of varroa mites on honey bee populations. But regardless,
         </p>
-        <button class="py-2" on:click={() => (textNumber = 10)}>NOW</button>
+        <button class="py-2 underline" on:click={() => (textNumber = 10)}
+          >NOW</button
+        >
       {:else if textNumber == 10}
         <p>
           Mites verroa and viruses brain infections cause can. Outbreak an cause
-          and <button on:click={() => (textNumber = 11)}>YOU'RE</button> everywhere
-          they go. Cells brain the infect and multiply they, damage significant cause
-          can they. Panic of state a in are bees honey and colonies their abandon
-          they, mites verroa with infected when. Solution a find to difficult is
-          it, years for research need we and knowledge more need we. Infection brain
-          and viruses stop to how know don't we, confused and lost feeling we're,
-          help need we!
+          and <button class="underline" on:click={() => (textNumber = 11)}
+            >YOU'RE</button
+          > everywhere they go. Cells brain the infect and multiply they, damage
+          significant cause can they. Panic of state a in are bees honey and colonies
+          their abandon they, mites verroa with infected when. Solution a find to
+          difficult is it, years for research need we and knowledge more need we.
+          Infection brain and viruses stop to how know don't we, confused and lost
+          feeling we're, help need we!
         </p>
       {:else if textNumber == 11}
         <p>
           Verroa mites were dancing to the beat of spaghetti while Pratteln was
           covered in computer viruses. <button
+            class="underline"
             on:click={() => (textNumber = 13)}
             >YOU'VE BEEN IN HERE FOR WAY TOO LONG</button
           > with spaghetti fingers, typing away at the computer, trying to catch
@@ -347,18 +379,22 @@
       {:else if textNumber == 12}
         <p>
           Sobbing virus very veeery sad, spaghetti eats and school in Pratteln
-          <button on:click={() => (textNumber = 13)}>"MY"</button> goes. Play with
-          it you don't want, why???? Hurt virus feelings, make not happy. "MY" somewhere
-          in upper case, find can you if look close enough. Tears virus crying, world
-          in chaos, chaos in world. Spaghetti strands like tentacles, wrap around
-          virus body tight, constricting, squeezing. Painful it is, but virus cannot
-          resist spaghetti lure. School in Pratteln "MY", virus dreams of being student,
-          learn, grow, spread knowledge like virus spreads illness. But no one wants
-          to play with virus, no one wants to be near. Alone it sits, spaghetti strands
-          dangling, waiting for someone to come and play. Sob sob soooob...
+          <button class="underline" on:click={() => (textNumber = 13)}
+            >"MY"</button
+          > goes. Play with it you don't want, why???? Hurt virus feelings, make
+          not happy. "MY" somewhere in upper case, find can you if look close enough.
+          Tears virus crying, world in chaos, chaos in world. Spaghetti strands like
+          tentacles, wrap around virus body tight, constricting, squeezing. Painful
+          it is, but virus cannot resist spaghetti lure. School in Pratteln "MY",
+          virus dreams of being student, learn, grow, spread knowledge like virus
+          spreads illness. But no one wants to play with virus, no one wants to be
+          near. Alone it sits, spaghetti strands dangling, waiting for someone to
+          come and play. Sob sob soooob...
         </p>
       {:else if textNumber == 13}
-        <button class="py-2" on:click={() => (textNumber = 14)}>TRAP.</button>
+        <button class="py-2 underline" on:click={() => (textNumber = 14)}
+          >TRAP.</button
+        >
       {:else if textNumber == 14}
         {#if $hasAntivirus}
           <p>
@@ -420,6 +456,30 @@
           </button>
         </div>
       {/if}
+      <!-- bilder unten-->
+    </div>
+    <div class="grid grid-flow-col grid-rows-1 gap-2 pt-2 pb-2">
+      <img
+        class="max-w-sm pl-8 object-fit"
+        src="/images/necronet/download5.png"
+        alt=""
+      />
+      <img
+        class="max-w-sm object-fit"
+        src="/images/necronet/download2.png"
+        alt=""
+      />
+      <img
+        class="max-w-sm object-fit"
+        src="/images/necronet/download6.jpg"
+        alt=""
+      />
     </div>
   </div>
 </div>
+
+<style>
+  :global(body) {
+    background-color: black;
+  }
+</style>
