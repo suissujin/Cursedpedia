@@ -31,7 +31,7 @@
     fascinating animals that play an important role in many ecosystems. It would
     be very interesting to follow it. Maybe I will someday. Whether in the wild
     or the web, rabbits are beloved by people around Switzerland for their cute
-    appearance and mysterious demeanour.
+    appearance and mysterious demeanour..
   </p>
-  <h1>You found the Rabbit hole ending!</h1>
+    <h1><Link location="/rabbit-hole-start">Enter</Link></h1>
 </Article>

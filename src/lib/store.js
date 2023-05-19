@@ -6,6 +6,9 @@ export const demonScore = writable(parseInt(localStorage?.demonScore || 0))
 demonScore.subscribe((v) => (localStorage.demonScore = v))
 export const boredomScore = writable(parseInt(localStorage?.boredomScore || 0))
 boredomScore.subscribe((v) => (localStorage.boredomScore = v))
+export const playerPos = writable()
+export const failCounter = writable(0)
+export const isReturning = writable(false)
 
 const locations = localStorage?.visitedLocations
   ? JSON.parse(localStorage.visitedLocations)
