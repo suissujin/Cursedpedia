@@ -1,8 +1,8 @@
 <script>
 </script>
 
-<div class = "min-h-screen overflow-hidden bg-black content-end">
-  <div class = "absolute top-20 text-white font-semibold text-3xl">
-    <slot ></slot> 
+<div class="content-end min-h-screen overflow-hidden bg-black">
+  <div class="absolute text-3xl font-semibold text-white top-20">
+    <slot />
   </div>
 </div>
