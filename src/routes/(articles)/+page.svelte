@@ -2,17 +2,14 @@
   import Link from "$lib/components/Link.svelte"
   import Article from "$lib/components/Article.svelte"
   import Image from "$lib/components/Image.svelte"
-  const startArticles = ["Pratteln", "Cinema"]
-  const choosenArticle =
-    startArticles[Math.floor(Math.random() * startArticles.length)]
 </script>
 
 <Article title="Accursedia">
-  <p>Cool sitte coolo its working!!!</p>
+  <p>Welcome to Accursedia</p>
   <p>
-    Random Sitte do:
-    <Link location={"/" + choosenArticle.toLowerCase()} counter="boring">
-      {choosenArticle}
-    </Link>
+    Browse:
+    <Link location="/pratteln" counter="boring">Pratteln</Link>
+    <Link location="/school" counter="boring">School</Link>
+    <Link location="/laundry" counter="boring">Laundry</Link>
   </p>
 </Article>
