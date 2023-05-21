@@ -19,7 +19,7 @@ visitedLocations.subscribe(
 )
 
 export const hasAntivirus = writable(
-  JSON.parse(localStorage?.hasAntivirus) || false
+  JSON.parse(localStorage?.hasAntivirus || false)
 )
 hasAntivirus.subscribe((v) => (localStorage.hasAntivirus = v))
 
