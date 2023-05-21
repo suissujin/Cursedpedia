@@ -1,8 +1,10 @@
 <script>
   import Popup from "$lib/components/Popup.svelte"
   import Reset from "$lib/components/Reset.svelte"
-  import { hasAntivirus, popups } from "$lib/store.js"
+  import { hasAntivirus, popups, locationLock } from "$lib/store.js"
   import { comment } from "svelte/internal"
+
+  $locationLock = "nn"
 
   let textNumber = 0
 

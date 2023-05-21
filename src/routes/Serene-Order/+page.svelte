@@ -1,6 +1,10 @@
 <script>
   import Popup from "$lib/components/Popup.svelte"
   import Reset from "$lib/components/Reset.svelte"
+  import { locationLock } from "$lib/store.js"
+
+  $locationLock = "tso"
+
   const music = new Audio("/music/tsotrack.mp3")
   music.play()
 

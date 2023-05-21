@@ -1,3 +1,4 @@
+import { empty } from "svelte/internal"
 import { writable } from "svelte/store"
 
 export const cultScore = writable(parseInt(localStorage?.cultScore || 0))
@@ -24,3 +25,5 @@ export const hasAntivirus = writable(
 hasAntivirus.subscribe((v) => (localStorage.hasAntivirus = v))
 
 export const popups = writable([])
+
+export const locationLock = writable("")

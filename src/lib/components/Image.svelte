@@ -1,10 +1,10 @@
 <script>
-  import { cultScore, demonScore } from "$lib/store.js"
+  import { cultScore, demonScore, locationLock } from "$lib/store.js"
   export let image = ""
   export let altT = ""
   export let caption = ""
 
-  if ($demonScore >= 4) {
+  if ($demonScore >= 4 && $locationLock !== "demon") {
     image = "cursed.png"
   }
   const imageSrc = `/images/${image}`
