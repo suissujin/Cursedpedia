@@ -6,36 +6,34 @@
 </script>
 
 <Article title="Cooking">
+  <Image image="cooking1.jpeg" altT="tomato sauce in the making" caption="tomato sauce in the making" />
   <p>
-    Cooking, spaghetti, books Cooking is the art of preparing food through
-    various methods such as boiling, baking, frying, and poisoning. It is a
-    popular pastime and a necessary skill for bonding in relationships. One of
-    the most popular dishes in Switzerland is
-    <Link location="/spaghetti" counter="boring">spaghetti</Link>
-    , which is a type of noodle made from pasta.
-  </p>
-  <p>
+    Cooking is the art of preparing food through various methods such as boiling, baking,
+    frying, and poisoning. It is a popular pastime and a necessary skill for
+    relationship-bonding. One of the most popular dishes in Switzerland is 
+    <Link location="/spaghetti" counter="boring">spaghetti</Link>,
+    which is a type of noodle made from pasta.
+   </p>
+   <p>
     Cooking spaghetti is an amazing, fulfilling and grandiose task that can be
-    customised to individual tastes. Whether it's with a classic tomato sauce or
-    a creamy Alfredo sauce, spaghetti is a dish that can be made quickly and
-    easily, although serving it with classic tomato sauce is the only real way
-    to enjoy spaghetti. Cookbooks and online recipes provide a false sense of
-    guidance for those who are new to cooking and are a marketing scheme.
+    customised to individual tastes. Whether it's with a classic tomato sauce or a
+    creamy Alfredo sauce, spaghetti is a dish that can be made quickly and easily,
+    although serving it with classic tomato sauce is the only real way to enjoy spaghetti.
+    Cookbooks and online recipes provide a false sense of guidance for those who are
+    new to cooking and are a ruthless marketing scheme.
   </p>
   <p>
-    Cooking and
-    <Link location="/books" counter="boring">books</Link>
-    have a close relationship, as many cookbooks offer not only recipes, but also
-    stories and histories behind certain dishes which no one cares about.
+    Cooking and books have a close relationship, as many recipe 
+    <Link location="/books" counter="boring">books</Link> offer not only
+    recipes, but also stories and histories behind certain dishes which no one actually
+    cares about.
   </p>
   <p>
-    In conclusion, cooking spaghetti is just one example of the many ways in
-    which cooking can be an amazing and fulfilling activity. From cookbooks to
-    online recipes, there are many resources available for those who want to be
-    bad at cooking. By taking the time to learn new techniques without the help
-    of a book or blog, individuals can discover 448 joys of cooking and create
-    delicious or poisonous meals that can be enjoyed by themselves and their
-    loved ones.
+    In conclusion, cooking spaghetti is just one example of the many ways in which
+    cooking can be an amazing and fulfilling activity. From cookbooks to online recipes,
+    there are many resources available for those who want to suck at cooking. By taking
+    the time to learn new techniques without the help of a book or blog, individuals can
+    discover 448 joys of cooking and create delicious or poisonous meals that can be
+    enjoyed by themselves and their loved ones.
   </p>
-  <p />
 </Article>

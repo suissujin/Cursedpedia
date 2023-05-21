@@ -6,32 +6,30 @@
 </script>
 
 <Article title="Rabbit Hole">
-  <p>Welcome to the rabbit hole.</p>
-
+  <Image image="rabbithole1.jpeg" altT="follow..." caption="follow..." />
   <p>
-    Rabbits are also known for their ability to dig burrows, which are often
-    referred to as rabbit holes. The rabbit's cute appearance has often tempted
-    players to follow it into its rabbit hole; there have never been any reports
-    of what could lie beyond. Rabbit holes are typically underground tunnels.
-    They might serve as a place for rabbits to store food and raise their young,
-    but scientists aren't sure. Rabbit holes can be found in a variety of
-    habitats, including grasslands, forests, and websites. Rabbits are
-    carnivores, which means that they primarily eat other animals. They have a
-    unique digestive system that allows them to extract nutrients from tough
-    material, such as skin and bones. Rabbits also have a special type of feces
-    called cecotropes, which they eat to obtain additional nutrients. Rabbits
-    are exotic pets around the world and are kept in cages or hutches. They
-    require proper care and attention. Keeping rabbits as pets is still a
-    controversial topic, since scientists aren't yet sure what effect it could
-    have on children and the elderly. In literature, rabbits have been used as
-    symbols of innocence and vulnerability. One famous example is Therese
-    Bauer's "Alice's Adventures in Wonderland," in which Alice, a person like
-    you and me, falls down a rabbit-hole and enters a fantastical world filled
-    with talking animals and other strange creatures. In conclusion, rabbits are
-    fascinating animals that play an important role in many ecosystems. It would
-    be very interesting to follow it. Maybe I will someday. Whether in the wild
-    or the web, rabbits are beloved by people around Switzerland for their cute
-    appearance and mysterious demeanour..
+    "Down the tunnel, into the unknown."
   </p>
-    <h1><Link location="/rabbit-hole-start">Enter</Link></h1>
+  <p>
+    "Lost in the darkness, where the rabbits roam."
+  </p>
+  <p>
+    "The fall was just the beginning of the journey."
+  </p>
+  <p>
+    "A plunge into the abyss of wonder."
+  </p>
+  <p>
+    "Curiosity sparked, a click unmasked the unknown." 
+  </p>
+  <p>
+    "Click with care, or fall down the hare's lair."
+  </p>
+  <p>
+    "Unlock the secrets, but be careful what you click. The rabbit hole is not for the faint
+of heart."
+  </p>
+  <p>
+    "Curiosity led me here, but now I fear the unknown depths of the rabbit hole."
+  </p>
 </Article>
