@@ -1,5 +1,4 @@
 <script>
-  import { goto } from "$app/navigation"
   import {
     cultScore,
     demonScore,
@@ -16,7 +15,7 @@
     $boredomScore = 0
     $visitedLocations = []
     $hasAntivirus = false
-    goto("/")
+    window.location.href = "/"
   }
 </script>
 
