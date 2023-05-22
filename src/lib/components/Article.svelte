@@ -16,11 +16,11 @@
   }
 
   if ($cultScore >= 2 && $cultScore < 3) {
-    divClass += "font-serif"
+    divClass += " font-serif"
   } else if ($cultScore >= 3 && $cultScore < 4) {
-    divClass += "font-serif text-blue-950 text-1xl"
+    divClass += " font-serif text-blue-950 text-1xl"
   } else if ($cultScore >= 4) {
-    divClass += "font-serif text-center w-1/2 text-blue-800 text-1xl mx-auto "
+    divClass += " font-serif text-center w-1/2 text-blue-800 text-1xl mx-auto "
   }
 </script>
 
@@ -28,7 +28,7 @@
   <h1 class={titleClass}>{title}</h1>
   {#if $cultScore >= 4}
     <img
-      class="w-44 left-20"
+      class="float-left pr-8 w-44 left-2"
       src="/images/tso/daughter.jpeg"
       alt="holy message"
     />

@@ -10,6 +10,11 @@
   export let location = ""
   export let counter = ""
 
+  let linkStyle = "text-blue-600 hover:text-blue-800"
+  if ($cultScore >= 4) {
+    linkStyle = "text-red-600 hover:text-red-800"
+  }
+
   const visited = $visitedLocations.includes(location)
 
   function updateScoreAndRedirect() {
@@ -36,7 +41,7 @@
 
 <button
   on:click={updateScoreAndRedirect}
-  class="text-blue-600 hover:text-blue-800"
+  class={linkStyle}
   class:text-purple-600={visited}
 >
   <slot />

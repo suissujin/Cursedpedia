@@ -463,7 +463,7 @@
     <div class="grid grid-flow-col grid-rows-1 gap-2 pt-2 pb-2">
       <img
         class="max-w-sm pl-8 object-fit"
-        src="/images/necronet/download5.png"
+        src="/images/necronet/Werbig1.jpg"
         alt=""
       />
       <img
@@ -473,7 +473,7 @@
       />
       <img
         class="max-w-sm object-fit"
-        src="/images/necronet/download6.jpg"
+        src="/images/necronet/Werbig2.jpg"
         alt=""
       />
     </div>

@@ -14,5 +14,5 @@
 
 <figure class="float-right w-64 h-64 ml-5 text-xs">
   <img class="object-scale-down w-64 h-64" src={imageSrc} alt={imageAlt} />
-  <figcaption>{captionText}</figcaption>
+  <figcaption class="mb-3">{captionText}</figcaption>
 </figure>
