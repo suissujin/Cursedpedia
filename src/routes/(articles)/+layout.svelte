@@ -17,6 +17,9 @@
         case "credits":
           goto("/Credits")
           break
+        case "bember":
+          goto("/Bember")
+          break
         default:
           break
       }
