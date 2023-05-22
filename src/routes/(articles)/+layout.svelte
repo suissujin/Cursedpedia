@@ -14,6 +14,9 @@
         case "448":
           goto("/FBI")
           break
+        case "Credits":
+          goto("/Credits")
+          break
         default:
           break
       }
