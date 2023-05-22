@@ -16,10 +16,12 @@
     "popup4.jpg",
     "popup5.jpg",
     "popup6.gif",
+    "popup6.jpeg",
+    "popup7.jpeg",
   ]
 
   function addPopup() {
-    if ($popups.length < 8) {
+    if ($popups.length < 5) {
       $popups = [
         ...$popups,
         {
@@ -32,7 +34,7 @@
     }
   }
 
-  setInterval(addPopup, 5000)
+  setInterval(addPopup, 7000)
 </script>
 
 <div class="min-h-screen overflow-hidden bg-black">
